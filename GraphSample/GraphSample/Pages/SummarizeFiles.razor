@@ -661,9 +661,14 @@
             return;
         }
         noSummary = false;
-        if (fileName == "")
+        var fileName = "";
+        if (loadedFile.Count == 0)
         {
             fileName = "summary";
+        }
+        else
+        {
+            fileName = loadedFile[0].Name;
         }
         isWriting = true; // Set the flag to indicate that writing to OneNote is in progress
         var user = (await authenticationStateTask).User;
