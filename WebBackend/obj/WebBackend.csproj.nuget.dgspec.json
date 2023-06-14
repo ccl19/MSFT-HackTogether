@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj": {}
+  },
+  "projects": {
+    "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj",
+        "projectName": "SharedModels",
+        "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj",
+        "packagesPath": "/Users/charmainelouie/.nuget/packages/",
+        "outputPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charmainelouie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.19.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
+        "projectName": "WebBackend",
+        "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
+        "packagesPath": "/Users/charmainelouie/.nuget/packages/",
+        "outputPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charmainelouie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
+                "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.19.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
