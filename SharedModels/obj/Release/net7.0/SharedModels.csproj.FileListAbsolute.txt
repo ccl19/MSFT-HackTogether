@@ -1,0 +1,12 @@
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/bin/Release/net7.0/SharedModels.deps.json
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/bin/Release/net7.0/SharedModels.dll
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/bin/Release/net7.0/SharedModels.pdb
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/SharedModels.csproj.AssemblyReference.cache
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/SharedModels.AssemblyInfoInputs.cache
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/SharedModels.AssemblyInfo.cs
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/SharedModels.csproj.CoreCompileInputs.cache
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/SharedModels.dll
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/refint/SharedModels.dll
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/SharedModels.pdb
+/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/Release/net7.0/ref/SharedModels.dll
