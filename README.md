@@ -37,3 +37,12 @@ The Overview dashboard seamlessly integrates Outlook, Teams, and the Calendar, s
 AI Summarise is built within the calendar of Nexus, a groundbreaking product designed to revolutionize the way you engage with online meetings on Microsoft Teams. With our cutting-edge technology, powered by Azure OpenAI and integrated with Microsoft Graph, we bring you an automatic meeting transcription summariser that ensures you never miss out on important discussions, even if you couldn't attend. Seamlessly integrating with Nexus, our application extracts the content of meeting transcriptions from Microsoft Graph, and leveraging the power of Azure OpenAI, it generates concise and informative summaries of the entire meeting.
 
 Stay effortlessly informed, even when you're unable to be present in real-time. With AI Summarize, you can now gain a comprehensive overview of the meeting's key points, decisions, and action items. Our intuitive interface presents the summarized information in a structured manner, allowing you to quickly grasp the essence of the discussion and stay up to speed with your team's progress.
+
+# Calendar 
+The Calendar is a powerful and intuitive tool that allows users to easily manage their events and meetings in one convenient platform. With a visually appealing and organised display, users can navigate through their events effortlessly, whether viewing them by month, week, or day. Each day is represented by a clickable tile, providing a clear overview of the scheduled events for that specific day.
+
+Adding and deleting events is a seamless process with the Calendar. Users can quickly input event details such as the title, date, time, and other relevant information.
+
+The calendar also prioritises meetings by highlighting them in distinctive green boxes. This visual cue enables users to instantly recognise and differentiate meetings from other events. By simply clicking on a meeting, users can access a concise summary, eliminating the need to spend hours watching recorded sessions. This time-saving feature provides users with a quick overview of the meeting's key points, enhancing efficiency and productivity.
+
+The Calendar combines powerful functionality with user-friendly design, making it an invaluable tool for effective event and meeting management. By utilising its features for event display and navigation, seamless event creation and editing, as well as meeting highlighting and summary access, users can stay organised, save time, and optimise their scheduling and planning processes.
