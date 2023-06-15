@@ -791,6 +791,7 @@
         "lib/netstandard2.0/Microsoft.Win32.Registry.xml",
         "microsoft.win32.registry.5.0.0.nupkg.sha512",
         "microsoft.win32.registry.nuspec",
+        "paket-installmodel.cache",
         "ref/net46/Microsoft.Win32.Registry.dll",
         "ref/net461/Microsoft.Win32.Registry.dll",
         "ref/net461/Microsoft.Win32.Registry.xml",
@@ -1040,6 +1041,7 @@
         "lib/netstandard2.0/System.Buffers.dll",
         "lib/netstandard2.0/System.Buffers.xml",
         "lib/uap10.0.16299/_._",
+        "paket-installmodel.cache",
         "ref/net45/System.Buffers.dll",
         "ref/net45/System.Buffers.xml",
         "ref/netcoreapp2.0/_._",
@@ -1150,6 +1152,7 @@
         "lib/netstandard2.0/System.Security.Principal.Windows.dll",
         "lib/netstandard2.0/System.Security.Principal.Windows.xml",
         "lib/uap10.0.16299/_._",
+        "paket-installmodel.cache",
         "ref/net46/System.Security.Principal.Windows.dll",
         "ref/net461/System.Security.Principal.Windows.dll",
         "ref/net461/System.Security.Principal.Windows.xml",
@@ -1221,19 +1224,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/charmainelouie/.nuget/packages/": {}
+    "/Users/konstantinossougioultzoglou/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
+      "projectUniqueName": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
       "projectName": "WebBackend",
-      "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
-      "packagesPath": "/Users/charmainelouie/.nuget/packages/",
-      "outputPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/obj/",
+      "projectPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
+      "packagesPath": "/Users/konstantinossougioultzoglou/.nuget/packages/",
+      "outputPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/charmainelouie/.nuget/NuGet/NuGet.Config"
+        "/Users/konstantinossougioultzoglou/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1247,8 +1250,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
-              "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj"
+            "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
+              "projectPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj"
             }
           }
         }

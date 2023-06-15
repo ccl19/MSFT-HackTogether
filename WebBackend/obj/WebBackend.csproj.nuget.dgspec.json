@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj": {}
+    "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj": {}
   },
   "projects": {
-    "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
+    "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj",
+        "projectUniqueName": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj",
         "projectName": "SharedModels",
-        "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj",
-        "packagesPath": "/Users/charmainelouie/.nuget/packages/",
-        "outputPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/obj/",
+        "projectPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj",
+        "packagesPath": "/Users/konstantinossougioultzoglou/.nuget/packages/",
+        "outputPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/charmainelouie/.nuget/NuGet/NuGet.Config"
+          "/Users/konstantinossougioultzoglou/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -68,17 +68,17 @@
         }
       }
     },
-    "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj": {
+    "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
+        "projectUniqueName": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
         "projectName": "WebBackend",
-        "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
-        "packagesPath": "/Users/charmainelouie/.nuget/packages/",
-        "outputPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/WebBackend/obj/",
+        "projectPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/WebBackend.csproj",
+        "packagesPath": "/Users/konstantinossougioultzoglou/.nuget/packages/",
+        "outputPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/WebBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/charmainelouie/.nuget/NuGet/NuGet.Config"
+          "/Users/konstantinossougioultzoglou/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -92,8 +92,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
-                "projectPath": "/Users/charmainelouie/Documents/Imperial/Year 3/Summer Project/Repo/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj"
+              "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj": {
+                "projectPath": "/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/SharedModels/SharedModels.csproj"
               }
             }
           }
