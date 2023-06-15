@@ -44,3 +44,6 @@ The Calendar is a powerful and intuitive tool that allows users to easily manage
 Adding and deleting events is a seamless process with the Calendar. Users can quickly input event details such as the title, date, time, and other relevant information.
 
 The Calendar combines powerful functionality with user-friendly design, making it an invaluable tool for effective event and meeting management. By utilising its features for event display and navigation, seamless event creation and editing, as well as meeting highlighting and summary access, users can stay organised, save time, and optimise their scheduling and planning processes.
+
+# Search Bar
+The search bar enables users to conveniently search across their Microsoft Applications. It utilises the Microsoft Graph API to ensure that all platforms have been searched through to allow users to find what they need easily all in one place.
