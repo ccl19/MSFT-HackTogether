@@ -43,6 +43,4 @@ The Calendar is a powerful and intuitive tool that allows users to easily manage
 
 Adding and deleting events is a seamless process with the Calendar. Users can quickly input event details such as the title, date, time, and other relevant information.
 
-The calendar also prioritises meetings by highlighting them in distinctive green boxes. This visual cue enables users to instantly recognise and differentiate meetings from other events. By simply clicking on a meeting, users can access a concise summary, eliminating the need to spend hours watching recorded sessions. This time-saving feature provides users with a quick overview of the meeting's key points, enhancing efficiency and productivity.
-
 The Calendar combines powerful functionality with user-friendly design, making it an invaluable tool for effective event and meeting management. By utilising its features for event display and navigation, seamless event creation and editing, as well as meeting highlighting and summary access, users can stay organised, save time, and optimise their scheduling and planning processes.
