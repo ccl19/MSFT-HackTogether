@@ -13,7 +13,7 @@ Stay effortlessly organized and in control of your job search by creating struct
 
 Escape the burden of laboriously sifting through countless emails. Our tracker offers an email grouping feature, intelligently organizing your inbox by company. It also provides the ability to autofill an applications associated emails addresses based on the company name, and flags any application with unread emails
 
-Harness the full potential of Azure OpenAI as our cutting-edge technology scans and analyzes your emails, effortlessly generating schedules for interviews and assessments. You can then easily adjust and details regarding the assessments that were generated slightly off.
+Harness the full potential of Azure OpenAI as our cutting-edge technology scans and analyzes your emails, effortlessly generating schedules for interviews and assessments. You can then easily adjust the details regarding any assessments that were generated slightly off.
 
 Experience the convenience of effortlessly archiving inactive applications, decluttering your dashboard and enabling focused attention on active opportunities. Seamlessly switch between calendar and default display modes, tailoring the view to your specific preferences and workflow requirements. Sort applications based on unread emails, date added, or starred status, enabling strategic prioritization of your efforts.
 
