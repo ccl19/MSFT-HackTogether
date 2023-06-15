@@ -1,0 +1,147 @@
+is_global = true
+build_property.PublishFluentIconAssets = true
+build_property.PublishFluentEmojiAssets = false
+build_property.FluentEmojiStyles = 
+build_property.FluentEmojiGroups = 
+build_property.FluentIconSizes = 10,12,16,20,24,28,32,48
+build_property.FluentIconVariants = Filled,Regular
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = GraphSample
+build_property.RootNamespace = GraphSample
+build_property.ProjectDir = /Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/AddEvent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkRXZlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/ApplicationTracker.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwbGljYXRpb25UcmFja2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Calendar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FsZW5kYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Chat.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hhdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Dashbar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/EditOneNote.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdE9uZU5vdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/FileUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlsZVVwbG9hZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Overview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3ZlcnZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Schedulingmeeting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NoZWR1bGluZ21lZXRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/SignIn.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lnbkluLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Summarize.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3VtbWFyaXplLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/SummarizeFiles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3VtbWFyaXplRmlsZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Teams.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVhbXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/TestAI.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVzdEFJLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/ToDo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9Eby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Transcript.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNjcmlwdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/UniversalSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVW5pdmVyc2FsU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/ReusableComponents/AddCustomDescriptionPopup.razor]
+build_metadata.AdditionalFiles.TargetPath = UmV1c2FibGVDb21wb25lbnRzL0FkZEN1c3RvbURlc2NyaXB0aW9uUG9wdXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/ReusableComponents/AddTimelinePopup.razor]
+build_metadata.AdditionalFiles.TargetPath = UmV1c2FibGVDb21wb25lbnRzL0FkZFRpbWVsaW5lUG9wdXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/ReusableComponents/AssessmentInputPopup.razor]
+build_metadata.AdditionalFiles.TargetPath = UmV1c2FibGVDb21wb25lbnRzL0Fzc2Vzc21lbnRJbnB1dFBvcHVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/ReusableComponents/InputPopup.razor]
+build_metadata.AdditionalFiles.TargetPath = UmV1c2FibGVDb21wb25lbnRzL0lucHV0UG9wdXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/ReusableComponents/RemoveTimelinePopup.razor]
+build_metadata.AdditionalFiles.TargetPath = UmV1c2FibGVDb21wb25lbnRzL1JlbW92ZVRpbWVsaW5lUG9wdXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/ReusableComponents/UpdateDatePopup.razor]
+build_metadata.AdditionalFiles.TargetPath = UmV1c2FibGVDb21wb25lbnRzL1VwZGF0ZURhdGVQb3B1cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1JlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/konstantinossougioultzoglou/Desktop/Year_3/Group_Project/MicrosoftGraphProject/GraphSample/GraphSample/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gbat82rxcw
