@@ -16,6 +16,7 @@ ul {
 .mainContent {
     display: flex;
     z-index: 25;
+
 }
 
 .emailTeamsSection {
@@ -23,6 +24,8 @@ ul {
 }
 
 /*
+
+
 * EMAILS
 */
 .mailPage {

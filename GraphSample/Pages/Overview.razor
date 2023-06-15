@@ -31,7 +31,9 @@
                     <div class="groupSettings">
 
                         <div class="nameBox">
+
                             <FluentTextField Style="z-index: 20;" @bind-Value=placename Placeholder="Group Name"></FluentTextField>
+
                         </div>
 
                         <div class="searchBoxes">
@@ -66,12 +68,14 @@
                     </div>
 
                     <div class="groupAdd">
+
                         <FluentButton Appearance="Appearance.Accent" @onclick="() => addToGroup(mailListValue, teamNameValue, calendarValue)">Add Filter</FluentButton>
+
                     </div>
                 </div>
             </div>
-
           
+
             <div class="mainContent">
                 <div class="emailTeamsSection">
                     <FluentTabs ActiveId="myActiveId" OnTabChange="HandleOnTabChange">
@@ -437,6 +441,7 @@
             await getChats("hi");
         }
         await getCal(calQuery);
+
         StateHasChanged();
     }
 
@@ -707,6 +712,7 @@
         if (args is not null && !string.IsNullOrWhiteSpace(args.Value.ToString()))
         {
             string searchTerm = args.Value.ToString()!.ToLower();
+
             if (searchTerm == "all")
             {
                 mailQuery = "All";
@@ -931,6 +937,7 @@
             myGroups.Add(new GroupItem { Name = placename, mailName = m, teamName = t, calName = c });
         }
     }
+
 
 
 }
