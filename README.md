@@ -32,3 +32,8 @@ Streamline your daily routine by effortlessly creating a to-do list with our cha
 
 # Overview
 The Overview dashboard seamlessly integrates Outlook, Teams, and the Calendar, serving as a centralised resource hub for users to efficiently locate and retrieve resources across multiple Microsoft applications. Nexus is designed to elevate productivity and enhance organisational capabilities through its intuitive overview user interface. Additionally, by utilising grouping functionality, users can further optimise their experience by filtering the available information, enabling a highly focused and tailored approach.
+
+# Transcript Summaries
+AI Summarise is built within the calendar of Nexus, a groundbreaking product designed to revolutionize the way you engage with online meetings on Microsoft Teams. With our cutting-edge technology, powered by Azure OpenAI and integrated with Microsoft Graph, we bring you an automatic meeting transcription summariser that ensures you never miss out on important discussions, even if you couldn't attend. Seamlessly integrating with Nexus, our application extracts the content of meeting transcriptions from Microsoft Graph, and leveraging the power of Azure OpenAI, it generates concise and informative summaries of the entire meeting.
+
+Stay effortlessly informed, even when you're unable to be present in real-time. With AI Summarize, you can now gain a comprehensive overview of the meeting's key points, decisions, and action items. Our intuitive interface presents the summarized information in a structured manner, allowing you to quickly grasp the essence of the discussion and stay up to speed with your team's progress.
