@@ -17,4 +17,6 @@ We acknowledge the importance of efficient note-taking and seamless integration 
 
 
 # Chatbot
-We have integrated Azure OpenAI into a chatbot which allows users to have a seamless interaction with a safe AI. We have included buttons which allow shortcuts within the chatbot. Creating a to-do list is easy when using the chatbot, simply type your plans for the day and allow our AI to help with timings and conveniently add them to your Microsoft Todo App. Another shortcut includes automatically displaying the weather in the user's location, our chatbot uses Weather APIs to retrieve weather information depending on the IP address location of users. 
+Our user-friendly chatbot seamlessly integrated with Azure OpenAI technology. With our innovative features, managing your tasks and staying informed has never been simpler! 
+
+Streamline your daily routine by effortlessly creating a to-do list with our chatbot. Just type in your plans for the day, and let our AI assist you with suggested timings and hassle-free integration with your Microsoft Todo App. No more juggling between different platforms or struggling with complex schedules. Our chatbot ensures you stay on top of your tasks with ease and efficiency. We also understand the importance of staying updated with the weather. By leveraging Weather APIs, it fetches accurate weather information based on your location. With a click of a button, you can access real-time forecasts and conditions, empowering you to make informed decisions and plan your day accordingly.
