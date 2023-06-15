@@ -7,7 +7,19 @@ We have implemented Microsoft OpenAI in a variety of places in our design in way
 Our submission is focussing on the Application Tracker, the File Summarizer and the ToDo Chatbot sections of Nexus as they are the key areas where AI has been implemented to high usage.
 
 # Application Tracker
+Introducing our groundbreaking Job Application Tracker, the ultimate tool to help you take control of your job search with ease and efficiency! Powered by a powerful .NET Web API backend and integrated with Azure OpenAI, this cutting-edge platform revolutionizes the way you manage your applications, ensuring you stay organized and ahead of the game.
 
+Stay on top of your applications effortlessly by creating personalized application timelines. Our intuitive interface allows you to track the progress of each application, from submission to interview and assessment stages. Say goodbye to scattered notes and missed opportunities – with our tracker, you'll have a clear overview of your entire job application journey.
+
+Tired of sifting through countless emails? Our tracker automatically groups emails by the company, streamlining your inbox and saving you valuable time. And that's not all! With our intelligent autofill feature, composing emails becomes a breeze as the tracker suggests email addresses, reducing the chance of errors and ensuring professional communication every time.
+
+Unlock the true power of Azure OpenAI as our advanced technology reads through your emails and effortlessly generates schedules for interviews and assessments. No more manual calendar juggling or missed appointments – our tracker takes care of it all, seamlessly integrating with your existing schedule and ensuring you never miss an important opportunity.
+
+With our intuitive features, you can easily archive inactive applications, keeping your dashboard clutter-free and focused on the ones that matter. Switch effortlessly between the calendar and default display modes, tailoring the view to your preference and workflow. Sort applications based on unread emails, date added, or starred status, enabling you to prioritize your efforts effectively.
+
+Experience the simplicity of updating interview and assessment details with just a few clicks. Our smart dropdown menus make it easy to modify information, ensuring you're always on top of any changes in the hiring process.
+
+Empower your job search with our Job Application Tracker today. Stay organized, stay ahead, and land your dream job with confidence. Don't miss out on this game-changing tool – unleash the power of our .NET Web API backend and take control of your future like never before.
 
 
 # File Summarizer
